@@ -9,6 +9,7 @@ class _03_Addition
 		addition(10,20,30);
 		addition (30,40);
 		addition (10,40,50);
+		addition (10,40,50);
 	}
 	public static void addition(int x, int y)
 	{
